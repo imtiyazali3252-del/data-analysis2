@@ -1,0 +1,1001 @@
+Age,EducationLevel,YearsExperience,JobTitle,City,CompanySize,Industry,WorkType,Salary
+43,Bachelor's,19.0,Manager,Pune,Small,Finance,On-site,6005041.05
+50,PhD,26.0,HR Specialist,Mumbai,Medium,Finance,Remote,11650377.66
+40,Master's,16.0,HR Specialist,Hyderabad,Small,IT,On-site,3941214.61
+37,PhD,13.5,Manager,Hyderabad,Large,Education,Remote,9507972.23
+26,PhD,1.0,HR Specialist,Bangalore,Large,Finance,Remote,1645928.26
+33,PhD,9.5,Analyst,Hyderabad,Small,Healthcare,Hybrid,3135643.31
+32,Master's,8.0,Analyst,Mumbai,Medium,Finance,Hybrid,2919999.86
+43,PhD,17.5,Analyst,Bangalore,Medium,Manufacturing,Remote,6742998.35
+35,Bachelor's,8.5,Data Scientist,Bangalore,Small,IT,Remote,3696713.93
+40,Bachelor's,17.0,Manager,Pune,Medium,Finance,Remote,7184090.77
+40,Bachelor's,13.5,Analyst,Mumbai,Small,Manufacturing,On-site,2266622.02
+38,PhD,17.0,HR Specialist,Chennai,Large,IT,Remote,8651811.54
+39,PhD,12.5,Manager,Bangalore,Large,Finance,Hybrid,13571689.95
+42,Bachelor's,15.5,Analyst,Pune,Medium,Manufacturing,On-site,2743896.56
+44,PhD,19.0,Manager,Pune,Small,Healthcare,On-site,9067421.27
+26,Master's,2.5,Manager,Mumbai,Large,Education,Remote,2577620.97
+45,Bachelor's,19.0,Software Engineer,Bangalore,Large,IT,Remote,9333747.03
+39,PhD,18.0,Data Scientist,Hyderabad,Large,Healthcare,Hybrid,12154743.52
+43,Bachelor's,15.5,Analyst,Bangalore,Medium,IT,Hybrid,4329371.82
+52,Bachelor's,24.0,Manager,Bangalore,Medium,Finance,Hybrid,11126772.92
+36,Bachelor's,11.0,Software Engineer,Delhi,Medium,Finance,Remote,4148020.64
+42,PhD,15.5,Manager,Delhi,Small,Manufacturing,Hybrid,7889048.15
+28,PhD,2.5,Software Engineer,Bangalore,Large,Manufacturing,On-site,2784051.18
+31,PhD,9.0,Manager,Hyderabad,Large,Education,Remote,6770220.96
+44,PhD,16.0,Data Scientist,Bangalore,Large,Education,Remote,10832425.1
+57,Master's,29.5,Software Engineer,Hyderabad,Small,Finance,Remote,10565975.35
+49,Bachelor's,23.5,HR Specialist,Delhi,Large,IT,Remote,8107921.16
+25,Master's,1.0,Software Engineer,Hyderabad,Large,IT,Hybrid,1410574.33
+43,Master's,19.5,Manager,Chennai,Small,Healthcare,Remote,7642435.6
+32,Bachelor's,7.5,Analyst,Bangalore,Small,Manufacturing,On-site,1595735.88
+22,Bachelor's,1.0,Analyst,Delhi,Large,Manufacturing,On-site,668899.06
+41,Master's,16.5,Software Engineer,Hyderabad,Large,IT,Remote,9877727.64
+54,PhD,29.5,Analyst,Delhi,Small,IT,Hybrid,10824298.89
+53,PhD,26.0,Analyst,Bangalore,Large,Manufacturing,Remote,13007229.87
+42,Bachelor's,15.5,Manager,Mumbai,Small,Finance,On-site,5881669.5
+35,Master's,13.0,Data Scientist,Bangalore,Small,IT,On-site,6059156.44
+54,PhD,26.5,HR Specialist,Mumbai,Large,Finance,On-site,14369345.97
+51,PhD,29.5,Software Engineer,Hyderabad,Small,Education,Remote,9328439.79
+31,Master's,3.5,Analyst,Delhi,Large,Education,Hybrid,1635429.04
+33,Bachelor's,10.5,Data Scientist,Chennai,Small,Finance,Hybrid,2910955.66
+31,Master's,10.5,Manager,Hyderabad,Small,IT,Remote,5673530.65
+39,Master's,15.5,Manager,Hyderabad,Small,Finance,Hybrid,7155814.51
+37,Bachelor's,14.5,Manager,Hyderabad,Medium,Finance,Remote,6664276.66
+22,Master's,0.0,Software Engineer,Mumbai,Medium,IT,Remote,771774.37
+47,Bachelor's,26.0,HR Specialist,Chennai,Small,Healthcare,Hybrid,4081782.92
+53,Master's,28.0,Analyst,Pune,Large,IT,Hybrid,10940112.08
+48,Bachelor's,22.5,Analyst,Mumbai,Medium,Manufacturing,On-site,4530562.78
+45,Master's,18.0,Data Scientist,Chennai,Small,Education,Hybrid,4261956.9
+52,Master's,25.5,Data Scientist,Delhi,Medium,IT,Remote,13205233.84
+34,Master's,7.5,Software Engineer,Hyderabad,Large,Education,Hybrid,3559467.13
+41,Bachelor's,17.0,Software Engineer,Pune,Large,Healthcare,Remote,6333169.3
+41,PhD,19.5,Analyst,Pune,Small,Education,On-site,4385790.82
+44,Bachelor's,22.5,Manager,Mumbai,Large,IT,Hybrid,14014311.07
+38,Master's,12.5,Manager,Bangalore,Large,Education,Hybrid,7348047.41
+48,Bachelor's,26.0,Manager,Pune,Small,Manufacturing,Remote,6845119.66
+32,PhD,4.0,Software Engineer,Delhi,Medium,IT,On-site,3130176.13
+43,PhD,15.5,HR Specialist,Hyderabad,Small,Manufacturing,On-site,3965879.49
+29,Master's,8.0,Analyst,Bangalore,Medium,Manufacturing,On-site,2415074.71
+30,Bachelor's,9.0,Software Engineer,Delhi,Small,Education,Hybrid,1898014.7
+55,Bachelor's,28.5,HR Specialist,Delhi,Small,Education,On-site,4116770.09
+34,Bachelor's,10.0,Software Engineer,Pune,Small,Finance,Hybrid,2789009.18
+25,PhD,2.0,HR Specialist,Delhi,Large,Finance,On-site,1715039.11
+26,Master's,5.5,Data Scientist,Hyderabad,Small,Manufacturing,Hybrid,2045966.49
+41,Master's,20.5,Manager,Mumbai,Medium,Manufacturing,Remote,10050765.55
+44,PhD,18.0,HR Specialist,Bangalore,Medium,Education,Remote,5927167.37
+38,Bachelor's,15.0,Analyst,Chennai,Large,Healthcare,Hybrid,4032841.7
+35,PhD,12.5,Manager,Pune,Small,Finance,Hybrid,7430435.93
+23,Bachelor's,0.0,Analyst,Chennai,Small,Education,Remote,240000.0
+40,Bachelor's,12.0,HR Specialist,Chennai,Medium,Education,Remote,2032629.77
+29,Bachelor's,5.0,Analyst,Delhi,Large,Education,Remote,1708642.02
+35,Bachelor's,8.5,Software Engineer,Chennai,Large,IT,Remote,3824767.68
+32,PhD,11.0,Analyst,Mumbai,Medium,Education,Remote,4240104.18
+25,Master's,3.5,Data Scientist,Hyderabad,Medium,Education,Remote,1689043.29
+41,Bachelor's,16.0,Analyst,Pune,Small,Healthcare,Remote,3233369.38
+24,PhD,2.5,HR Specialist,Bangalore,Medium,Finance,Hybrid,1733158.33
+22,PhD,0.0,Software Engineer,Delhi,Small,Finance,On-site,733421.57
+38,PhD,12.0,Manager,Bangalore,Small,IT,Hybrid,9090520.88
+28,PhD,2.0,HR Specialist,Pune,Small,Manufacturing,Hybrid,1252098.72
+27,Bachelor's,4.5,HR Specialist,Chennai,Small,IT,On-site,890419.59
+21,Master's,0.0,Analyst,Mumbai,Medium,Finance,Hybrid,484346.41
+49,PhD,26.5,Data Scientist,Hyderabad,Small,Education,Remote,9573181.08
+38,Bachelor's,11.0,HR Specialist,Chennai,Medium,Healthcare,On-site,2470401.79
+45,Master's,19.0,Data Scientist,Mumbai,Medium,Healthcare,On-site,8209350.38
+39,PhD,18.5,Analyst,Chennai,Large,Finance,On-site,8535024.34
+33,Bachelor's,8.0,Analyst,Mumbai,Small,Finance,Remote,2206892.23
+42,Bachelor's,16.5,Data Scientist,Pune,Medium,Healthcare,On-site,4443059.71
+46,PhD,23.5,Software Engineer,Delhi,Medium,Education,Remote,9517410.89
+42,Master's,14.0,HR Specialist,Mumbai,Large,Healthcare,Remote,6150425.2
+24,Master's,2.0,HR Specialist,Chennai,Small,IT,Remote,673565.65
+37,Master's,16.5,Data Scientist,Pune,Large,IT,Hybrid,9668358.05
+55,Bachelor's,28.0,Manager,Pune,Small,Finance,Remote,9605018.4
+52,PhD,25.5,Data Scientist,Hyderabad,Large,Finance,Remote,20269911.06
+38,PhD,12.5,Manager,Delhi,Large,Healthcare,On-site,10297223.89
+39,Bachelor's,12.0,Analyst,Mumbai,Large,IT,Remote,4805901.89
+45,Master's,19.0,Analyst,Bangalore,Small,Manufacturing,Remote,4994366.68
+44,PhD,22.0,Analyst,Chennai,Medium,IT,On-site,8062013.89
+41,Bachelor's,20.5,Analyst,Mumbai,Medium,Healthcare,On-site,4586419.26
+41,Master's,16.0,HR Specialist,Chennai,Medium,Education,Hybrid,3168354.82
+31,Master's,5.0,Software Engineer,Delhi,Large,Manufacturing,On-site,2762348.6
+29,PhD,5.0,Software Engineer,Chennai,Medium,Healthcare,Hybrid,2851165.79
+50,PhD,28.0,Manager,Mumbai,Large,Manufacturing,Remote,23033370.22
+33,Bachelor's,9.0,Analyst,Bangalore,Large,IT,Hybrid,3566880.49
+34,Master's,6.5,HR Specialist,Chennai,Large,Education,Remote,2008600.45
+52,Master's,24.5,HR Specialist,Mumbai,Medium,Manufacturing,Hybrid,6518647.3
+30,PhD,9.5,HR Specialist,Bangalore,Small,IT,On-site,4148558.69
+43,PhD,17.0,Software Engineer,Pune,Medium,Education,Hybrid,6181649.33
+31,PhD,6.5,Software Engineer,Mumbai,Large,Healthcare,Remote,5715284.82
+42,PhD,14.0,Software Engineer,Pune,Medium,Education,Hybrid,5592153.99
+42,Bachelor's,17.0,HR Specialist,Delhi,Large,Finance,Hybrid,5524778.21
+34,PhD,12.0,Manager,Pune,Medium,IT,On-site,8221057.25
+28,Bachelor's,7.0,Software Engineer,Bangalore,Large,Finance,Hybrid,3345065.81
+28,PhD,1.0,Data Scientist,Hyderabad,Large,Manufacturing,Remote,2166328.67
+51,PhD,25.5,Manager,Hyderabad,Small,IT,Remote,16371077.99
+42,Master's,16.0,Data Scientist,Mumbai,Small,Healthcare,Hybrid,6448519.63
+42,Master's,16.0,HR Specialist,Hyderabad,Small,Education,On-site,2744663.93
+47,Bachelor's,23.0,Data Scientist,Delhi,Large,Healthcare,On-site,9008643.86
+41,Master's,17.5,Manager,Delhi,Small,Education,On-site,5608965.27
+30,PhD,2.5,Data Scientist,Chennai,Large,Education,Hybrid,2255261.75
+34,Master's,6.0,Data Scientist,Bangalore,Small,Education,On-site,2272502.39
+26,Bachelor's,1.5,Data Scientist,Bangalore,Large,Finance,Remote,1890189.99
+49,Bachelor's,26.5,Software Engineer,Chennai,Large,IT,Hybrid,9824074.67
+43,PhD,17.5,Software Engineer,Bangalore,Large,Healthcare,On-site,11585986.57
+37,Bachelor's,10.0,HR Specialist,Bangalore,Medium,Education,Remote,2289918.22
+31,Master's,5.0,Data Scientist,Delhi,Medium,Healthcare,Remote,2519822.64
+44,PhD,21.0,Manager,Chennai,Small,Education,Hybrid,7816309.36
+36,Master's,12.5,HR Specialist,Bangalore,Large,IT,Remote,6457539.39
+48,Master's,24.0,Analyst,Pune,Small,IT,Remote,6351369.54
+50,Master's,27.5,HR Specialist,Bangalore,Small,Manufacturing,Hybrid,5771681.64
+35,PhD,7.5,Data Scientist,Bangalore,Medium,Healthcare,On-site,5389726.3
+46,Master's,24.0,Manager,Hyderabad,Small,Manufacturing,On-site,8264825.63
+42,Master's,19.0,Data Scientist,Delhi,Medium,Finance,Remote,9604531.48
+21,PhD,0.0,Manager,Delhi,Large,Manufacturing,Hybrid,1422090.01
+55,Bachelor's,28.0,Manager,Delhi,Small,Education,On-site,6852029.02
+37,Master's,11.5,Manager,Hyderabad,Small,Manufacturing,Hybrid,4539778.53
+42,Master's,15.0,Data Scientist,Bangalore,Large,Manufacturing,On-site,8125312.98
+27,Bachelor's,0.0,Analyst,Delhi,Medium,Finance,On-site,655028.07
+38,Bachelor's,11.0,HR Specialist,Chennai,Medium,IT,Hybrid,2563391.52
+54,Bachelor's,28.5,Data Scientist,Chennai,Large,IT,Hybrid,12017047.0
+46,Master's,25.0,Software Engineer,Mumbai,Small,IT,On-site,9528056.71
+46,Master's,22.5,Data Scientist,Pune,Small,Finance,On-site,7587442.16
+41,Master's,18.0,Data Scientist,Pune,Medium,Education,Remote,5890623.98
+38,Master's,12.0,Analyst,Pune,Medium,Manufacturing,On-site,2645766.4
+55,Master's,28.0,Manager,Mumbai,Small,IT,Remote,15164258.32
+54,Master's,28.5,Analyst,Chennai,Large,IT,On-site,9982919.7
+50,PhD,26.0,Data Scientist,Pune,Small,Healthcare,On-site,10372762.08
+47,PhD,19.0,Data Scientist,Chennai,Medium,Manufacturing,Remote,8571718.08
+52,PhD,28.5,Analyst,Delhi,Large,Education,On-site,10399584.47
+25,Bachelor's,0.5,Software Engineer,Bangalore,Small,IT,Remote,631283.17
+49,Master's,21.0,Software Engineer,Delhi,Large,Finance,Remote,12467821.52
+49,Bachelor's,24.0,Data Scientist,Bangalore,Large,IT,On-site,11998392.82
+31,PhD,5.5,HR Specialist,Bangalore,Large,Manufacturing,Hybrid,3184735.47
+29,PhD,8.5,Manager,Mumbai,Small,Manufacturing,Hybrid,4946176.18
+51,Master's,23.0,Software Engineer,Mumbai,Small,Finance,On-site,8664448.46
+47,PhD,24.5,HR Specialist,Mumbai,Large,Education,On-site,9218242.12
+39,PhD,17.0,Data Scientist,Bangalore,Medium,Healthcare,Remote,10632203.82
+41,PhD,19.5,Analyst,Bangalore,Small,IT,Remote,8284916.22
+29,Bachelor's,8.5,Data Scientist,Hyderabad,Medium,Finance,On-site,3120442.72
+56,Bachelor's,29.0,HR Specialist,Mumbai,Large,Healthcare,On-site,7965951.74
+46,Bachelor's,22.5,Software Engineer,Pune,Medium,Manufacturing,Remote,5273618.03
+50,Master's,28.0,Software Engineer,Hyderabad,Small,IT,Hybrid,9832728.33
+47,Bachelor's,24.0,Data Scientist,Hyderabad,Medium,Manufacturing,Remote,6894454.88
+28,PhD,7.0,Software Engineer,Bangalore,Large,Finance,Remote,6546378.93
+55,PhD,30.0,Analyst,Chennai,Large,Healthcare,Hybrid,12153446.7
+49,PhD,25.5,Analyst,Pune,Large,Manufacturing,On-site,9575733.39
+48,Master's,22.0,Manager,Mumbai,Small,Finance,Remote,11932649.71
+27,Bachelor's,2.5,Software Engineer,Bangalore,Large,Education,Hybrid,1280222.55
+49,PhD,24.0,Data Scientist,Delhi,Medium,Finance,Hybrid,15030695.2
+57,Bachelor's,30.0,Software Engineer,Hyderabad,Medium,Manufacturing,Hybrid,7154499.23
+26,PhD,5.0,Manager,Hyderabad,Small,IT,On-site,3691428.38
+25,PhD,2.0,Data Scientist,Hyderabad,Large,Healthcare,Remote,2727471.32
+45,Master's,23.5,HR Specialist,Hyderabad,Small,Education,Remote,4319518.54
+47,PhD,25.0,Data Scientist,Delhi,Small,Manufacturing,Remote,10826171.65
+30,PhD,2.5,Analyst,Bangalore,Large,Healthcare,Remote,2291647.12
+48,PhD,26.0,Manager,Chennai,Large,Manufacturing,On-site,15502761.81
+44,Bachelor's,22.0,Manager,Mumbai,Medium,Healthcare,Remote,9138964.26
+39,Master's,17.5,HR Specialist,Pune,Large,Finance,Remote,6860667.75
+45,Bachelor's,22.5,Software Engineer,Bangalore,Large,Finance,Remote,10693994.51
+41,Master's,14.5,Software Engineer,Mumbai,Large,Education,On-site,6186703.88
+39,Bachelor's,14.5,Analyst,Hyderabad,Medium,Education,On-site,2511809.19
+30,Master's,8.0,Software Engineer,Chennai,Medium,Healthcare,Hybrid,2810740.46
+50,PhD,24.5,HR Specialist,Hyderabad,Large,Healthcare,Remote,11134242.84
+42,PhD,16.0,Manager,Delhi,Medium,Finance,Hybrid,11999139.62
+44,Bachelor's,22.5,Analyst,Bangalore,Large,Manufacturing,Remote,6582170.92
+37,Master's,14.0,Analyst,Chennai,Large,Healthcare,On-site,4375137.87
+34,Bachelor's,8.0,HR Specialist,Pune,Large,Education,Hybrid,1816739.31
+50,Master's,29.0,Analyst,Chennai,Large,Finance,Remote,11060380.42
+45,Bachelor's,17.0,Software Engineer,Hyderabad,Medium,Education,On-site,3758076.05
+30,Master's,7.0,Data Scientist,Hyderabad,Large,Healthcare,Remote,4481701.14
+46,Master's,21.5,Manager,Hyderabad,Medium,IT,Hybrid,11749666.15
+46,Bachelor's,18.5,Analyst,Chennai,Medium,Manufacturing,Remote,3711516.06
+28,PhD,0.5,HR Specialist,Bangalore,Small,Finance,Hybrid,920534.05
+41,PhD,15.0,HR Specialist,Bangalore,Small,Education,Hybrid,3793276.69
+48,PhD,20.0,Manager,Bangalore,Small,Education,Remote,10105170.64
+52,Bachelor's,26.5,Data Scientist,Mumbai,Small,Finance,Remote,9208369.28
+37,Bachelor's,16.0,Software Engineer,Pune,Medium,Finance,Hybrid,5085372.98
+51,Master's,24.5,Data Scientist,Hyderabad,Small,Healthcare,Remote,8694470.87
+24,Master's,1.0,Software Engineer,Chennai,Small,IT,Hybrid,1078613.96
+46,PhD,23.0,Manager,Hyderabad,Medium,Finance,Hybrid,15819953.88
+39,PhD,12.5,Software Engineer,Hyderabad,Medium,Healthcare,Hybrid,6086248.31
+52,PhD,27.0,Manager,Hyderabad,Medium,Finance,On-site,17370454.16
+35,Bachelor's,10.5,Manager,Delhi,Medium,Healthcare,On-site,4004137.59
+28,PhD,7.0,Analyst,Bangalore,Medium,Manufacturing,On-site,2578623.04
+53,Bachelor's,28.5,Analyst,Hyderabad,Medium,Education,Hybrid,4760092.77
+39,Bachelor's,17.5,Data Scientist,Hyderabad,Medium,Finance,Hybrid,6272294.75
+41,PhD,19.0,Manager,Mumbai,Medium,Manufacturing,On-site,11469451.36
+28,PhD,7.0,Data Scientist,Hyderabad,Medium,Finance,Hybrid,4941292.7
+28,PhD,6.5,HR Specialist,Pune,Medium,Manufacturing,Remote,2415824.69
+49,PhD,23.0,Software Engineer,Hyderabad,Medium,IT,On-site,11982415.98
+33,Master's,12.0,Manager,Pune,Small,IT,Remote,5787438.83
+27,Master's,4.5,Data Scientist,Pune,Medium,Education,Hybrid,1677693.67
+41,Bachelor's,20.0,Analyst,Delhi,Small,IT,Hybrid,4525811.85
+39,Bachelor's,18.0,Analyst,Hyderabad,Large,Education,On-site,3959325.89
+54,Master's,30.0,Data Scientist,Bangalore,Large,Manufacturing,Hybrid,15518180.54
+23,Bachelor's,2.0,Manager,Chennai,Medium,Education,Remote,943760.01
+52,PhD,24.5,Manager,Chennai,Medium,IT,Hybrid,16049663.04
+54,PhD,27.5,Data Scientist,Hyderabad,Medium,Education,On-site,10832535.52
+46,Master's,22.0,Data Scientist,Hyderabad,Large,Finance,Remote,13542147.55
+41,Bachelor's,15.5,Data Scientist,Bangalore,Large,Finance,On-site,7759308.59
+30,Master's,4.5,Data Scientist,Bangalore,Medium,IT,On-site,3135466.93
+37,PhD,16.0,HR Specialist,Pune,Small,Finance,Hybrid,5152599.37
+35,Master's,13.5,Software Engineer,Bangalore,Small,IT,Remote,6025471.06
+43,Master's,20.0,HR Specialist,Chennai,Medium,Education,Hybrid,4025869.73
+35,Master's,9.0,Data Scientist,Pune,Small,Healthcare,Remote,3427428.32
+53,Bachelor's,26.5,HR Specialist,Bangalore,Medium,Manufacturing,On-site,5114859.12
+54,Bachelor's,29.5,Software Engineer,Bangalore,Small,Healthcare,Hybrid,7596085.32
+48,Master's,22.5,Data Scientist,Chennai,Small,Healthcare,Remote,7102223.57
+40,Master's,12.5,Analyst,Pune,Small,Finance,Remote,3387875.03
+45,PhD,18.0,Manager,Chennai,Medium,Finance,On-site,10823046.19
+46,Bachelor's,21.0,Manager,Pune,Large,IT,On-site,10357550.37
+32,PhD,6.0,Data Scientist,Chennai,Small,Education,Remote,2480257.48
+51,PhD,25.5,HR Specialist,Hyderabad,Large,Finance,Hybrid,12530436.28
+23,Bachelor's,1.5,Manager,Hyderabad,Medium,Manufacturing,On-site,1077775.3
+30,Bachelor's,3.0,Data Scientist,Pune,Medium,Education,Hybrid,1178887.75
+52,Master's,27.5,Manager,Pune,Large,Manufacturing,Hybrid,14218468.64
+34,Master's,13.5,Software Engineer,Mumbai,Medium,IT,Remote,7013570.44
+46,PhD,24.0,HR Specialist,Hyderabad,Medium,Healthcare,On-site,7615361.73
+25,Master's,4.5,Manager,Hyderabad,Medium,IT,On-site,2809711.17
+41,Master's,17.0,Software Engineer,Pune,Small,Manufacturing,On-site,4334452.54
+41,PhD,17.0,Manager,Mumbai,Small,Manufacturing,Remote,9748334.64
+31,Master's,8.5,HR Specialist,Bangalore,Small,Healthcare,On-site,2025434.94
+35,Master's,11.5,Manager,Hyderabad,Medium,Finance,On-site,6081649.6
+39,PhD,18.0,Software Engineer,Bangalore,Large,IT,On-site,14075488.13
+26,Bachelor's,1.5,Analyst,Mumbai,Small,Education,On-site,312975.98
+25,PhD,3.5,Analyst,Pune,Medium,Healthcare,Hybrid,1782313.47
+24,PhD,2.5,Analyst,Mumbai,Medium,IT,On-site,1777800.22
+29,Master's,3.5,Analyst,Pune,Small,Manufacturing,On-site,1248558.79
+44,PhD,23.0,Data Scientist,Chennai,Medium,IT,On-site,11876503.32
+33,PhD,5.5,HR Specialist,Hyderabad,Large,Manufacturing,Remote,3191711.65
+54,Bachelor's,28.0,Analyst,Chennai,Medium,Finance,On-site,5739007.83
+31,Master's,5.5,HR Specialist,Chennai,Small,Finance,Remote,1836712.51
+21,Bachelor's,0.5,Data Scientist,Delhi,Small,IT,Remote,570399.45
+33,Master's,11.0,Manager,Chennai,Large,Education,Remote,5221491.93
+47,PhD,25.5,Software Engineer,Mumbai,Medium,Finance,Remote,15853447.72
+40,Master's,14.5,Manager,Hyderabad,Medium,IT,On-site,7924061.32
+33,Master's,10.0,Manager,Mumbai,Large,Finance,Hybrid,8540390.37
+34,Bachelor's,12.0,HR Specialist,Chennai,Small,Education,On-site,1522043.68
+27,Master's,6.5,HR Specialist,Hyderabad,Large,Healthcare,Remote,2734292.57
+44,Bachelor's,16.5,Data Scientist,Hyderabad,Small,Education,Remote,3924893.36
+53,Bachelor's,29.5,Analyst,Mumbai,Small,Education,On-site,4284273.13
+24,PhD,0.5,Manager,Delhi,Small,Healthcare,Hybrid,1335803.28
+25,Master's,4.5,Manager,Mumbai,Small,IT,On-site,2801445.03
+28,Master's,4.0,Manager,Hyderabad,Small,Education,On-site,1615280.84
+40,Bachelor's,19.5,Analyst,Hyderabad,Small,Education,Hybrid,2632976.57
+52,Master's,25.5,HR Specialist,Delhi,Large,Healthcare,Hybrid,8867019.26
+33,Bachelor's,6.5,HR Specialist,Chennai,Small,Finance,Hybrid,1351160.28
+32,Master's,7.0,Data Scientist,Pune,Small,Manufacturing,Remote,2540128.27
+34,Bachelor's,12.5,HR Specialist,Pune,Medium,Manufacturing,Remote,2339812.78
+48,PhD,24.0,HR Specialist,Hyderabad,Large,Manufacturing,Hybrid,9379799.65
+23,Master's,1.5,Manager,Bangalore,Small,Education,Remote,1383789.92
+27,Bachelor's,6.0,Software Engineer,Bangalore,Small,IT,Hybrid,2195867.07
+57,Bachelor's,29.5,Software Engineer,Mumbai,Medium,Finance,Remote,10777335.15
+26,Master's,3.5,Software Engineer,Bangalore,Large,Manufacturing,On-site,2427409.15
+30,Bachelor's,2.0,HR Specialist,Pune,Small,Healthcare,Remote,566691.0
+46,PhD,22.5,Analyst,Delhi,Large,Healthcare,On-site,10462164.01
+43,Bachelor's,21.0,HR Specialist,Chennai,Medium,Finance,Hybrid,4313666.89
+35,Bachelor's,8.0,Software Engineer,Mumbai,Large,Finance,On-site,3990910.52
+48,Master's,24.0,Analyst,Chennai,Small,IT,Remote,6156091.62
+46,Bachelor's,24.5,Analyst,Hyderabad,Large,Finance,Hybrid,7470388.79
+31,PhD,6.0,Analyst,Mumbai,Large,Finance,On-site,4285980.67
+25,PhD,4.0,Analyst,Mumbai,Small,Finance,Hybrid,1944554.68
+51,Bachelor's,25.5,Analyst,Delhi,Medium,IT,Remote,7034461.65
+54,Bachelor's,27.0,Analyst,Bangalore,Large,Finance,Remote,9832675.88
+32,Bachelor's,6.0,Analyst,Delhi,Medium,Healthcare,Remote,1716493.61
+31,PhD,7.0,Data Scientist,Delhi,Large,Education,Remote,4920644.04
+33,Bachelor's,10.5,HR Specialist,Bangalore,Large,Healthcare,On-site,3277476.48
+44,Bachelor's,23.0,Data Scientist,Mumbai,Small,Education,Remote,5687830.75
+22,PhD,1.0,Data Scientist,Mumbai,Large,IT,Hybrid,2442151.18
+36,Master's,13.0,Software Engineer,Pune,Small,Education,Hybrid,3260721.66
+42,Master's,20.5,Analyst,Bangalore,Medium,IT,Hybrid,7611387.41
+30,PhD,7.5,Manager,Pune,Medium,Education,On-site,3990885.9
+54,Master's,30.0,Manager,Mumbai,Small,Manufacturing,Hybrid,11582807.33
+53,Bachelor's,28.0,Analyst,Pune,Medium,Healthcare,Remote,5954360.12
+29,PhD,7.5,Analyst,Hyderabad,Medium,Finance,Hybrid,3373261.57
+52,Bachelor's,29.5,Manager,Chennai,Small,Education,Hybrid,6498795.01
+54,Bachelor's,28.5,Analyst,Delhi,Small,Education,Hybrid,4105012.9
+35,Bachelor's,8.5,Manager,Hyderabad,Large,Healthcare,Remote,4504136.34
+55,Bachelor's,29.5,Software Engineer,Bangalore,Medium,Education,On-site,6835328.95
+30,PhD,6.5,Software Engineer,Mumbai,Small,IT,Remote,4201582.94
+26,PhD,4.5,HR Specialist,Delhi,Small,Manufacturing,Hybrid,1290321.12
+49,Master's,26.0,Manager,Chennai,Medium,Healthcare,Remote,11282290.25
+42,Bachelor's,14.0,Analyst,Bangalore,Small,Finance,Remote,3771088.67
+46,Master's,19.0,Manager,Bangalore,Small,Education,Hybrid,7249774.25
+46,Master's,20.0,Analyst,Hyderabad,Small,Education,Remote,3971740.92
+40,PhD,13.5,Analyst,Chennai,Medium,Finance,Remote,5560068.94
+32,Bachelor's,6.0,HR Specialist,Hyderabad,Large,Education,Hybrid,1212563.59
+29,PhD,3.0,Data Scientist,Delhi,Large,Manufacturing,Hybrid,3178403.95
+36,Master's,12.5,Software Engineer,Pune,Medium,Manufacturing,Hybrid,4112760.01
+46,Bachelor's,18.0,Manager,Delhi,Small,Manufacturing,Remote,5488894.51
+51,Bachelor's,30.0,Data Scientist,Pune,Large,Finance,Remote,13122824.13
+36,Bachelor's,8.0,HR Specialist,Mumbai,Medium,Healthcare,Remote,2430697.95
+45,Bachelor's,19.0,Software Engineer,Mumbai,Medium,Finance,Remote,7022423.17
+38,Bachelor's,10.5,Data Scientist,Mumbai,Medium,Healthcare,Remote,4223679.41
+45,PhD,19.0,Analyst,Delhi,Medium,Healthcare,On-site,6750622.15
+28,Master's,3.0,Analyst,Chennai,Medium,Manufacturing,On-site,1093500.33
+34,Master's,10.5,Manager,Pune,Small,Finance,Hybrid,5173792.74
+53,PhD,27.5,Analyst,Bangalore,Medium,Education,On-site,8719518.35
+29,PhD,2.5,Software Engineer,Delhi,Medium,Healthcare,On-site,1811830.82
+27,Bachelor's,5.5,Analyst,Pune,Small,IT,On-site,1248292.65
+35,Master's,7.0,Data Scientist,Mumbai,Medium,Education,Hybrid,3249458.6
+24,Master's,1.0,Manager,Chennai,Small,Education,Remote,765734.47
+55,Bachelor's,27.0,Analyst,Delhi,Small,Education,Hybrid,3927681.91
+36,PhD,15.5,Software Engineer,Pune,Large,Manufacturing,Remote,8606509.68
+39,Master's,14.5,Analyst,Hyderabad,Medium,Finance,On-site,4345610.94
+23,PhD,2.0,Software Engineer,Hyderabad,Small,Education,Hybrid,1161062.32
+38,Master's,12.5,HR Specialist,Delhi,Small,Education,Remote,2690738.2
+25,Bachelor's,2.5,Manager,Mumbai,Large,Education,Remote,1776853.13
+38,Master's,10.0,Manager,Hyderabad,Medium,Finance,Remote,6204833.13
+37,PhD,16.5,Data Scientist,Mumbai,Large,IT,On-site,14587546.25
+51,Master's,23.5,Software Engineer,Pune,Large,Healthcare,On-site,9789493.31
+51,PhD,27.5,Software Engineer,Hyderabad,Small,Healthcare,Hybrid,10475809.85
+39,Master's,12.0,HR Specialist,Delhi,Small,Manufacturing,Remote,2931027.07
+26,PhD,5.5,Software Engineer,Delhi,Small,Finance,On-site,2982193.47
+42,PhD,16.0,Manager,Delhi,Large,Finance,Hybrid,15797812.0
+29,PhD,3.5,Manager,Chennai,Large,Healthcare,Remote,3896220.24
+40,Master's,12.0,Data Scientist,Chennai,Large,IT,On-site,7066787.62
+49,Master's,22.0,Software Engineer,Delhi,Large,IT,On-site,12135400.01
+47,Master's,23.0,HR Specialist,Pune,Small,IT,Remote,5706503.01
+30,PhD,5.0,Software Engineer,Delhi,Medium,IT,On-site,3531926.91
+25,Master's,1.5,Software Engineer,Pune,Medium,IT,On-site,1316596.86
+52,Master's,24.0,Analyst,Delhi,Large,Finance,Remote,11026988.68
+35,Bachelor's,10.0,Manager,Hyderabad,Small,Manufacturing,Remote,3109911.08
+38,Master's,17.0,Software Engineer,Pune,Large,Education,Hybrid,6092512.12
+31,PhD,5.5,Software Engineer,Delhi,Medium,Education,Remote,3106893.68
+49,PhD,25.0,Analyst,Hyderabad,Medium,Education,Remote,7419589.58
+27,Master's,1.0,Data Scientist,Delhi,Large,IT,Remote,1903769.84
+31,Master's,10.5,Software Engineer,Pune,Medium,Finance,On-site,3864118.81
+26,Master's,3.5,Software Engineer,Bangalore,Small,Manufacturing,Remote,1527630.32
+48,Bachelor's,23.5,HR Specialist,Pune,Medium,IT,Hybrid,5616018.56
+50,PhD,24.0,Analyst,Hyderabad,Small,Finance,On-site,7903026.23
+43,Master's,20.5,Software Engineer,Bangalore,Small,IT,Remote,8932855.26
+36,Bachelor's,8.0,Manager,Delhi,Large,IT,On-site,5491282.51
+32,Bachelor's,9.0,HR Specialist,Bangalore,Large,Education,Remote,2491602.21
+51,Bachelor's,26.0,Software Engineer,Pune,Medium,Education,Hybrid,5498342.0
+49,Master's,22.5,HR Specialist,Bangalore,Large,Education,Hybrid,7048379.98
+30,Master's,8.5,Software Engineer,Hyderabad,Medium,Manufacturing,On-site,3038753.47
+45,Master's,24.0,Manager,Bangalore,Large,Finance,On-site,17770411.23
+35,Master's,14.0,Data Scientist,Delhi,Large,Manufacturing,Hybrid,6816300.05
+25,PhD,4.0,Analyst,Delhi,Medium,Healthcare,Remote,2070192.46
+25,Master's,0.5,Manager,Chennai,Medium,IT,Remote,1007207.27
+27,Bachelor's,0.0,Data Scientist,Pune,Small,IT,On-site,502506.23
+36,PhD,15.0,Software Engineer,Chennai,Small,Healthcare,Hybrid,5362684.75
+29,Master's,4.0,Data Scientist,Chennai,Medium,Healthcare,On-site,1892684.99
+37,PhD,13.5,Software Engineer,Delhi,Medium,Healthcare,Remote,7175399.02
+38,Master's,11.5,Analyst,Pune,Large,Education,Remote,3559088.62
+48,Bachelor's,27.5,Analyst,Delhi,Small,Finance,Hybrid,5453689.74
+38,Master's,15.0,Manager,Bangalore,Small,Manufacturing,Hybrid,6439163.56
+47,Master's,23.5,Software Engineer,Hyderabad,Small,Manufacturing,Hybrid,6256239.74
+52,PhD,29.0,HR Specialist,Hyderabad,Medium,Healthcare,Hybrid,9538969.53
+49,PhD,26.5,Data Scientist,Delhi,Medium,Healthcare,Remote,14402772.04
+40,Bachelor's,18.0,HR Specialist,Mumbai,Small,Healthcare,On-site,3254259.29
+26,Master's,2.5,Analyst,Bangalore,Small,Manufacturing,Remote,872057.97
+33,Master's,8.0,Analyst,Pune,Small,IT,Remote,2607827.24
+28,Bachelor's,6.0,HR Specialist,Delhi,Large,Healthcare,On-site,1689282.38
+47,Bachelor's,25.0,HR Specialist,Chennai,Large,Education,Remote,4762923.05
+44,PhD,21.5,Analyst,Delhi,Small,Education,On-site,5167230.85
+45,PhD,23.0,Analyst,Delhi,Small,IT,On-site,7944153.91
+51,Master's,29.5,Software Engineer,Mumbai,Large,Manufacturing,On-site,12756392.42
+33,Master's,8.0,Manager,Delhi,Small,Finance,On-site,4121466.43
+51,PhD,26.5,Analyst,Chennai,Small,Healthcare,On-site,6850924.98
+30,Master's,9.5,Data Scientist,Hyderabad,Medium,IT,On-site,4528364.28
+31,Master's,9.0,Data Scientist,Hyderabad,Medium,Healthcare,Remote,3842629.79
+36,Bachelor's,13.0,Manager,Mumbai,Small,Healthcare,Remote,5219150.19
+29,Master's,6.5,Analyst,Delhi,Large,Education,On-site,2364150.77
+43,PhD,15.5,Manager,Delhi,Small,Manufacturing,On-site,7503222.27
+47,PhD,22.5,Data Scientist,Chennai,Small,Healthcare,On-site,8379966.62
+38,Master's,10.0,Software Engineer,Delhi,Medium,IT,Hybrid,5053423.47
+46,PhD,23.0,Data Scientist,Mumbai,Small,Healthcare,Remote,12092395.09
+32,Bachelor's,7.0,HR Specialist,Hyderabad,Small,IT,On-site,1382082.66
+27,PhD,0.5,Software Engineer,Mumbai,Medium,Education,Hybrid,1408294.81
+31,Master's,6.0,HR Specialist,Pune,Large,Healthcare,Hybrid,2507276.11
+29,Bachelor's,7.5,Data Scientist,Mumbai,Medium,Education,Hybrid,2356060.97
+50,Master's,23.0,Manager,Chennai,Medium,Healthcare,Hybrid,9604856.66
+41,Bachelor's,14.0,Software Engineer,Bangalore,Small,Manufacturing,Remote,3472113.76
+49,Master's,28.0,Software Engineer,Chennai,Medium,Finance,Hybrid,10158226.9
+49,Master's,25.5,Data Scientist,Hyderabad,Medium,Education,Remote,8446458.58
+26,PhD,1.5,Data Scientist,Hyderabad,Large,Finance,Hybrid,2743420.32
+49,PhD,27.5,Manager,Bangalore,Small,IT,On-site,17750694.99
+36,Master's,8.5,Software Engineer,Mumbai,Small,Manufacturing,Remote,3131700.39
+38,PhD,14.0,Software Engineer,Bangalore,Large,Healthcare,Remote,10440649.42
+39,PhD,17.5,Manager,Pune,Large,IT,Hybrid,15885903.06
+51,PhD,23.5,HR Specialist,Bangalore,Medium,Finance,Remote,11109313.67
+54,Master's,27.5,HR Specialist,Pune,Large,Manufacturing,Remote,8074063.53
+44,PhD,16.0,Software Engineer,Hyderabad,Large,IT,Hybrid,12001091.31
+33,Bachelor's,9.0,Data Scientist,Bangalore,Small,Education,Remote,2255103.9
+44,Master's,17.0,Manager,Hyderabad,Small,Education,On-site,5263118.25
+30,PhD,6.0,Data Scientist,Bangalore,Small,Healthcare,Hybrid,3889140.99
+53,Bachelor's,27.5,Analyst,Pune,Large,Manufacturing,Remote,6567285.77
+27,Master's,3.0,Manager,Hyderabad,Medium,Education,Remote,1759826.17
+41,Master's,13.5,Software Engineer,Hyderabad,Small,Education,On-site,3267807.1
+52,Master's,26.5,HR Specialist,Hyderabad,Large,Manufacturing,Hybrid,7928104.21
+47,Bachelor's,22.5,Data Scientist,Chennai,Small,Education,Hybrid,4225890.24
+49,Bachelor's,23.0,Analyst,Chennai,Small,Healthcare,Remote,3511989.97
+39,Master's,17.5,Software Engineer,Hyderabad,Large,Education,On-site,6168700.14
+28,Master's,5.5,HR Specialist,Mumbai,Large,IT,Hybrid,3035159.21
+44,PhD,18.0,HR Specialist,Bangalore,Small,Finance,On-site,6357518.41
+35,PhD,7.5,HR Specialist,Hyderabad,Small,Education,On-site,1773500.59
+46,PhD,25.0,Software Engineer,Bangalore,Small,Healthcare,On-site,10411287.43
+40,Bachelor's,16.5,Analyst,Hyderabad,Medium,Education,Hybrid,2883589.75
+40,PhD,19.5,HR Specialist,Hyderabad,Medium,Healthcare,On-site,6440474.33
+31,Master's,8.0,Analyst,Mumbai,Small,Finance,Remote,2920433.51
+27,Bachelor's,4.5,Manager,Delhi,Small,Manufacturing,On-site,1662969.17
+21,PhD,0.0,Analyst,Chennai,Medium,Education,Remote,300417.45
+50,Bachelor's,23.0,Data Scientist,Mumbai,Small,Finance,Remote,7888220.68
+53,Bachelor's,27.5,Data Scientist,Chennai,Large,Finance,On-site,10538006.69
+40,Master's,15.5,HR Specialist,Chennai,Small,Finance,Hybrid,3333947.71
+37,Master's,14.5,HR Specialist,Hyderabad,Small,Healthcare,Remote,3686438.96
+36,PhD,8.0,HR Specialist,Mumbai,Large,Education,Hybrid,3890877.64
+57,PhD,29.5,Data Scientist,Chennai,Small,Education,On-site,8785079.68
+39,Master's,18.0,Manager,Chennai,Medium,Finance,Hybrid,8548675.26
+31,PhD,8.0,HR Specialist,Mumbai,Medium,Manufacturing,Hybrid,3361934.45
+29,PhD,3.5,Software Engineer,Delhi,Large,IT,On-site,3753553.55
+40,Bachelor's,18.0,Analyst,Hyderabad,Medium,Healthcare,Remote,4142083.7
+33,Master's,11.5,Manager,Chennai,Small,Healthcare,Remote,4699236.16
+44,Bachelor's,22.0,Manager,Mumbai,Large,IT,Remote,14271040.99
+41,Bachelor's,14.0,Manager,Hyderabad,Small,Healthcare,On-site,4295998.89
+27,Master's,6.5,HR Specialist,Hyderabad,Small,Education,Remote,1494917.91
+35,Bachelor's,13.0,Data Scientist,Bangalore,Medium,Finance,Remote,5691099.67
+24,Bachelor's,2.0,Software Engineer,Chennai,Medium,Manufacturing,Remote,935032.41
+38,Bachelor's,14.0,Manager,Delhi,Small,Healthcare,Hybrid,4605277.27
+30,PhD,3.0,Data Scientist,Pune,Small,Education,On-site,1598212.65
+44,PhD,20.5,Data Scientist,Hyderabad,Small,Manufacturing,Remote,8664243.74
+46,Master's,22.5,Software Engineer,Delhi,Medium,Healthcare,Remote,8434215.04
+23,PhD,0.0,Manager,Pune,Medium,Manufacturing,Hybrid,960792.63
+51,Bachelor's,24.0,Analyst,Pune,Small,Manufacturing,Hybrid,3884813.96
+41,Bachelor's,20.0,Software Engineer,Hyderabad,Medium,Manufacturing,Remote,4972043.11
+29,PhD,1.0,Analyst,Hyderabad,Medium,Healthcare,On-site,900361.48
+44,Bachelor's,17.5,HR Specialist,Pune,Large,Finance,Hybrid,4960356.04
+54,PhD,28.0,Analyst,Chennai,Small,Manufacturing,Remote,7061201.75
+30,PhD,7.5,Data Scientist,Mumbai,Large,Finance,On-site,6861346.25
+37,Master's,15.5,Software Engineer,Bangalore,Large,IT,On-site,9363221.48
+35,Master's,10.0,Software Engineer,Bangalore,Large,IT,On-site,6645963.93
+33,PhD,11.5,Manager,Chennai,Small,Finance,On-site,6147424.56
+56,Bachelor's,30.0,Software Engineer,Mumbai,Large,IT,Remote,14709160.74
+33,Bachelor's,9.5,Manager,Bangalore,Large,IT,On-site,6180333.36
+49,Bachelor's,22.0,Software Engineer,Delhi,Medium,Education,Hybrid,5146823.23
+42,Master's,16.0,HR Specialist,Hyderabad,Large,Manufacturing,On-site,4757002.58
+23,Bachelor's,2.5,Software Engineer,Delhi,Small,IT,Remote,1280665.12
+34,Master's,6.0,Manager,Delhi,Large,Healthcare,Hybrid,4902606.7
+36,PhD,12.0,Analyst,Hyderabad,Large,Finance,Hybrid,6941480.46
+29,PhD,3.0,Manager,Mumbai,Large,Healthcare,On-site,4168074.05
+32,Bachelor's,8.5,Software Engineer,Hyderabad,Medium,Manufacturing,On-site,2190625.34
+23,Bachelor's,2.5,Software Engineer,Hyderabad,Medium,Manufacturing,Hybrid,765723.7
+50,Bachelor's,27.5,Data Scientist,Bangalore,Large,Manufacturing,On-site,10311481.21
+22,Bachelor's,1.5,Analyst,Chennai,Large,Healthcare,Hybrid,654856.91
+42,Bachelor's,14.0,Data Scientist,Mumbai,Small,IT,Hybrid,5289233.21
+26,Master's,0.5,HR Specialist,Hyderabad,Medium,IT,Remote,796013.71
+30,Bachelor's,8.5,Software Engineer,Delhi,Small,Education,On-site,1630406.05
+35,Master's,12.0,Analyst,Mumbai,Medium,Finance,On-site,4179857.33
+54,PhD,27.0,HR Specialist,Chennai,Large,IT,Hybrid,12654938.05
+44,Master's,17.0,HR Specialist,Mumbai,Medium,Healthcare,Hybrid,5459494.82
+30,Master's,7.0,Software Engineer,Bangalore,Medium,IT,On-site,3823601.93
+38,Bachelor's,14.0,Manager,Mumbai,Small,Finance,Remote,5811969.58
+30,Master's,7.0,Manager,Pune,Large,Education,Hybrid,3732253.3
+21,Bachelor's,0.0,Analyst,Bangalore,Small,Education,On-site,240000.0
+22,Bachelor's,0.0,HR Specialist,Chennai,Medium,IT,Hybrid,370529.68
+41,PhD,17.0,HR Specialist,Bangalore,Large,Education,Remote,7351949.13
+50,PhD,29.0,Data Scientist,Delhi,Small,Healthcare,Remote,13691304.79
+50,PhD,22.0,Software Engineer,Pune,Large,Education,On-site,9984467.85
+37,Master's,16.0,HR Specialist,Delhi,Medium,Healthcare,Remote,4392458.74
+39,Master's,16.0,Data Scientist,Mumbai,Medium,Healthcare,On-site,6924786.37
+34,Master's,6.0,Manager,Mumbai,Medium,IT,On-site,4599404.41
+51,Master's,25.0,Software Engineer,Bangalore,Small,Healthcare,Remote,9165335.11
+40,Bachelor's,19.0,HR Specialist,Bangalore,Medium,Healthcare,Remote,4647065.86
+53,Master's,29.0,Data Scientist,Hyderabad,Medium,Education,On-site,8553860.36
+45,Master's,18.0,Data Scientist,Chennai,Large,Finance,Remote,10433931.3
+28,PhD,3.0,Analyst,Hyderabad,Large,IT,On-site,2271145.47
+27,Master's,1.0,Data Scientist,Bangalore,Small,Manufacturing,Remote,1197370.74
+49,PhD,22.0,Manager,Hyderabad,Small,IT,On-site,12950396.26
+49,PhD,27.5,Software Engineer,Pune,Small,Finance,Remote,11967150.46
+55,Bachelor's,27.0,Analyst,Chennai,Medium,IT,Hybrid,6160412.14
+55,Bachelor's,28.5,Software Engineer,Pune,Small,IT,Hybrid,7401120.78
+31,Master's,10.5,HR Specialist,Mumbai,Large,IT,On-site,5273696.08
+30,Master's,7.5,Software Engineer,Chennai,Small,Manufacturing,On-site,1874277.02
+46,PhD,22.5,HR Specialist,Bangalore,Large,Manufacturing,Hybrid,10177499.59
+44,Master's,18.0,Software Engineer,Chennai,Small,Healthcare,Hybrid,5213179.37
+37,Master's,16.5,Analyst,Delhi,Medium,Healthcare,Hybrid,5007884.65
+33,PhD,7.0,HR Specialist,Bangalore,Large,IT,Hybrid,5076289.39
+46,Master's,19.5,Software Engineer,Pune,Medium,Finance,On-site,7401208.46
+32,Bachelor's,6.0,Data Scientist,Pune,Large,Manufacturing,Remote,2808571.49
+47,Master's,19.0,Software Engineer,Pune,Small,Finance,Remote,6726605.53
+28,Master's,1.0,Software Engineer,Pune,Small,IT,Hybrid,1439519.43
+49,Master's,26.0,Analyst,Bangalore,Medium,Education,Remote,6533648.7
+55,Bachelor's,27.5,HR Specialist,Bangalore,Medium,IT,On-site,6900969.37
+29,Bachelor's,3.0,Manager,Delhi,Medium,IT,Remote,2131344.6
+30,PhD,7.0,HR Specialist,Chennai,Medium,IT,Hybrid,2991420.24
+43,Master's,15.5,Analyst,Bangalore,Large,Education,Remote,5580078.88
+49,Master's,24.0,Data Scientist,Pune,Small,Education,Remote,6205033.95
+32,Master's,9.0,Manager,Chennai,Large,Education,On-site,4303661.43
+55,PhD,28.5,Manager,Chennai,Large,Finance,Hybrid,22866783.75
+39,Master's,15.0,HR Specialist,Bangalore,Small,Finance,Hybrid,4598239.49
+46,Bachelor's,18.0,Data Scientist,Hyderabad,Small,Healthcare,Remote,5144958.49
+56,Bachelor's,29.0,Analyst,Chennai,Small,Finance,Remote,5404723.69
+34,PhD,7.5,Manager,Pune,Medium,Education,Hybrid,4458200.26
+44,Master's,20.5,HR Specialist,Pune,Large,Healthcare,Remote,7080358.45
+44,PhD,19.5,Data Scientist,Chennai,Medium,Education,Hybrid,7274186.31
+30,Master's,8.0,Data Scientist,Hyderabad,Large,Finance,On-site,5028892.38
+34,Bachelor's,8.5,Software Engineer,Delhi,Medium,Healthcare,Hybrid,2802452.23
+39,Bachelor's,15.5,Data Scientist,Chennai,Small,Healthcare,On-site,3329483.07
+32,PhD,10.5,HR Specialist,Hyderabad,Large,Education,Hybrid,3862172.65
+41,Bachelor's,13.5,HR Specialist,Chennai,Medium,Manufacturing,Remote,2702725.87
+38,PhD,15.5,HR Specialist,Hyderabad,Medium,Finance,Hybrid,5935910.63
+55,PhD,27.5,HR Specialist,Pune,Medium,Finance,Hybrid,9993846.78
+26,Bachelor's,3.5,HR Specialist,Chennai,Large,Education,On-site,1264955.22
+32,Bachelor's,7.5,Software Engineer,Delhi,Large,Healthcare,Remote,3230461.42
+51,PhD,25.0,Analyst,Pune,Large,Finance,Remote,13215256.28
+40,Bachelor's,17.0,HR Specialist,Pune,Medium,Healthcare,Remote,3611343.72
+26,Bachelor's,1.5,Manager,Delhi,Medium,Finance,Remote,1274877.25
+36,PhD,9.0,Data Scientist,Hyderabad,Small,Healthcare,Remote,4681423.24
+50,Master's,25.0,Analyst,Chennai,Small,Finance,Hybrid,5858256.61
+30,Master's,5.0,Manager,Chennai,Medium,Healthcare,Remote,2905814.28
+46,PhD,21.5,Software Engineer,Delhi,Large,IT,Remote,16926367.54
+28,PhD,0.0,Analyst,Bangalore,Large,Education,Hybrid,838708.7
+32,PhD,10.5,Software Engineer,Pune,Medium,Finance,Hybrid,5759045.85
+48,Master's,21.0,Analyst,Chennai,Medium,Healthcare,Hybrid,5461705.08
+39,Bachelor's,14.5,Data Scientist,Pune,Small,Finance,Hybrid,4526169.1
+42,Master's,19.5,Analyst,Pune,Medium,IT,On-site,5974071.71
+33,Master's,7.5,Manager,Pune,Large,Healthcare,Remote,5375174.83
+27,PhD,4.0,Analyst,Pune,Medium,IT,On-site,2127496.6
+42,Bachelor's,15.0,HR Specialist,Chennai,Medium,Education,On-site,1895532.23
+36,Master's,8.0,HR Specialist,Delhi,Medium,Healthcare,Hybrid,2384715.73
+51,Master's,24.5,Data Scientist,Delhi,Medium,Finance,On-site,10679882.89
+42,Master's,19.5,HR Specialist,Chennai,Medium,Education,Remote,3832498.4
+42,Bachelor's,17.5,Analyst,Pune,Medium,Education,On-site,2874775.38
+30,Master's,2.0,Data Scientist,Chennai,Large,Education,Hybrid,1756035.58
+32,Bachelor's,11.0,Data Scientist,Bangalore,Large,Finance,Remote,6101291.54
+27,Master's,6.0,Manager,Hyderabad,Small,Finance,On-site,2690480.85
+34,PhD,7.0,HR Specialist,Bangalore,Small,Education,Hybrid,2246120.34
+28,PhD,7.5,Analyst,Hyderabad,Medium,Healthcare,On-site,2643168.77
+51,Master's,28.0,Analyst,Delhi,Small,Manufacturing,Remote,6560107.46
+38,PhD,12.5,Analyst,Hyderabad,Large,IT,Remote,7997264.46
+38,Master's,15.5,Analyst,Pune,Medium,Healthcare,On-site,3987669.9
+38,Bachelor's,10.5,Software Engineer,Chennai,Medium,Healthcare,Hybrid,2842892.18
+29,PhD,1.0,Analyst,Bangalore,Large,Manufacturing,On-site,1793007.48
+34,Bachelor's,10.5,HR Specialist,Mumbai,Medium,IT,Remote,3566366.09
+34,Bachelor's,8.0,Software Engineer,Pune,Small,Finance,Hybrid,2465136.83
+46,Bachelor's,23.0,HR Specialist,Bangalore,Small,Manufacturing,On-site,3784955.23
+26,Master's,0.5,Software Engineer,Chennai,Large,Manufacturing,Hybrid,1114966.85
+29,Bachelor's,6.0,HR Specialist,Bangalore,Large,Education,On-site,1590682.73
+28,Master's,4.0,Analyst,Pune,Large,Education,Hybrid,1203249.68
+53,Bachelor's,26.5,Analyst,Delhi,Large,Finance,Remote,9215698.0
+42,Bachelor's,15.5,HR Specialist,Chennai,Small,IT,On-site,2756755.21
+41,Master's,19.5,Manager,Delhi,Large,Healthcare,On-site,11447797.29
+29,Master's,8.0,HR Specialist,Pune,Small,Finance,Hybrid,2372827.94
+40,PhD,17.0,Software Engineer,Pune,Large,Finance,On-site,10801882.11
+42,PhD,19.5,Analyst,Delhi,Small,Healthcare,Hybrid,6307752.21
+41,Master's,18.0,Data Scientist,Bangalore,Large,Education,Hybrid,8368225.31
+30,Master's,6.0,Software Engineer,Bangalore,Large,Education,Hybrid,3016673.56
+50,PhD,22.5,Analyst,Bangalore,Medium,Finance,Remote,11136764.96
+33,Master's,5.5,Analyst,Chennai,Large,IT,On-site,2667580.43
+38,Master's,11.5,HR Specialist,Bangalore,Large,Finance,On-site,5044115.79
+56,Master's,28.5,Data Scientist,Bangalore,Medium,Education,Hybrid,10131012.43
+23,PhD,1.0,Software Engineer,Delhi,Small,Manufacturing,Hybrid,854333.69
+45,PhD,23.0,Data Scientist,Hyderabad,Large,Education,On-site,11604434.57
+47,Master's,26.5,Manager,Mumbai,Small,IT,Remote,14328879.72
+51,Bachelor's,25.5,HR Specialist,Bangalore,Medium,Manufacturing,On-site,5019478.36
+32,Master's,11.5,HR Specialist,Chennai,Small,Healthcare,On-site,2499014.33
+35,PhD,11.0,Data Scientist,Pune,Large,Healthcare,Hybrid,7730903.41
+30,PhD,3.5,HR Specialist,Pune,Medium,Manufacturing,Remote,1637495.55
+52,PhD,27.0,HR Specialist,Chennai,Small,Manufacturing,Remote,6621874.02
+43,PhD,19.5,Manager,Hyderabad,Large,Finance,Remote,18551531.95
+57,PhD,29.0,HR Specialist,Pune,Medium,Education,Hybrid,7376120.06
+43,PhD,16.5,Analyst,Bangalore,Small,Manufacturing,On-site,5175176.68
+21,Bachelor's,0.0,Data Scientist,Chennai,Medium,Manufacturing,On-site,378542.07
+50,Master's,22.0,Software Engineer,Bangalore,Medium,Finance,Remote,10939030.75
+34,Bachelor's,8.0,HR Specialist,Chennai,Large,Manufacturing,On-site,1827511.82
+51,Bachelor's,24.0,Manager,Hyderabad,Medium,Manufacturing,Hybrid,7900860.11
+49,PhD,28.5,Software Engineer,Mumbai,Medium,Manufacturing,Hybrid,12936654.83
+46,Bachelor's,24.5,Software Engineer,Chennai,Medium,Manufacturing,On-site,5056774.23
+48,PhD,21.5,Manager,Delhi,Large,Education,On-site,13678689.58
+40,Master's,17.5,Analyst,Pune,Small,IT,On-site,4328185.0
+43,Bachelor's,21.0,Manager,Hyderabad,Small,Finance,Hybrid,7074458.04
+29,PhD,1.5,Analyst,Chennai,Small,Finance,Remote,1068111.34
+27,PhD,0.5,Manager,Bangalore,Large,Manufacturing,Hybrid,2108358.06
+56,PhD,28.0,Data Scientist,Chennai,Medium,Finance,Remote,15711055.91
+51,PhD,26.0,Analyst,Mumbai,Large,Manufacturing,On-site,11615958.2
+53,Master's,28.5,Analyst,Hyderabad,Small,Finance,Hybrid,7561444.79
+35,Master's,7.0,Software Engineer,Pune,Medium,Education,Hybrid,2319138.49
+23,PhD,1.0,Manager,Bangalore,Large,Education,Remote,1999032.29
+43,Bachelor's,20.0,Manager,Chennai,Small,Education,Hybrid,4352513.61
+51,PhD,29.0,Software Engineer,Hyderabad,Large,IT,Hybrid,20275245.85
+47,Bachelor's,24.0,Software Engineer,Mumbai,Large,Manufacturing,On-site,8163312.07
+37,Bachelor's,11.0,Analyst,Mumbai,Small,IT,Hybrid,2503071.73
+28,Bachelor's,6.5,Data Scientist,Chennai,Large,IT,Remote,3571512.32
+38,PhD,16.5,Manager,Delhi,Small,Manufacturing,Hybrid,8380001.6
+49,PhD,22.0,Software Engineer,Chennai,Medium,Education,Remote,7840063.02
+33,Bachelor's,5.0,Manager,Mumbai,Large,Manufacturing,On-site,3050648.96
+40,Master's,12.5,Software Engineer,Hyderabad,Large,Finance,Remote,7472762.73
+35,PhD,12.5,Manager,Chennai,Large,Education,Remote,7999616.56
+42,PhD,21.0,HR Specialist,Bangalore,Small,Manufacturing,Hybrid,6120879.65
+41,Bachelor's,14.0,Data Scientist,Pune,Small,Manufacturing,Remote,3350905.82
+28,PhD,1.0,Analyst,Delhi,Small,Finance,Remote,1253328.09
+50,Bachelor's,25.5,Analyst,Mumbai,Medium,Finance,Remote,7289147.84
+50,Master's,26.5,HR Specialist,Delhi,Large,Finance,Remote,10763127.43
+47,Bachelor's,23.0,Manager,Delhi,Medium,Education,On-site,6350544.58
+28,Bachelor's,7.0,Analyst,Mumbai,Medium,Manufacturing,On-site,1524392.01
+52,Bachelor's,28.5,Analyst,Mumbai,Small,Finance,Remote,6946886.24
+47,PhD,20.5,Analyst,Delhi,Medium,Healthcare,Remote,8454890.84
+40,Master's,15.0,Manager,Hyderabad,Medium,Finance,Hybrid,8287716.52
+57,Bachelor's,29.5,HR Specialist,Delhi,Small,Healthcare,On-site,4909607.1
+45,PhD,23.0,Software Engineer,Bangalore,Large,Education,Remote,13046748.35
+47,Bachelor's,23.0,Data Scientist,Mumbai,Medium,Education,On-site,6194337.91
+28,Master's,5.5,Manager,Bangalore,Medium,Finance,Remote,4349006.3
+29,Master's,7.5,Analyst,Chennai,Small,Manufacturing,Hybrid,1464342.64
+34,Bachelor's,6.0,Data Scientist,Pune,Medium,Manufacturing,Hybrid,2131317.4
+52,Master's,28.0,Manager,Delhi,Small,Finance,Hybrid,12631769.18
+28,Master's,4.0,Software Engineer,Mumbai,Small,Finance,On-site,2311282.53
+51,Bachelor's,29.5,Manager,Hyderabad,Medium,Healthcare,Hybrid,10193979.09
+41,Bachelor's,14.0,Analyst,Hyderabad,Small,Manufacturing,Hybrid,2409846.72
+48,Bachelor's,22.5,Data Scientist,Chennai,Medium,Finance,Hybrid,7165396.07
+43,Master's,17.5,HR Specialist,Hyderabad,Small,IT,Remote,4823228.28
+41,Master's,17.5,Manager,Pune,Large,Healthcare,Remote,10903897.81
+33,PhD,6.5,Analyst,Bangalore,Small,Manufacturing,On-site,2587304.92
+50,PhD,22.5,Analyst,Bangalore,Small,Education,Hybrid,6412529.79
+39,PhD,11.0,Manager,Bangalore,Small,Healthcare,Remote,7468308.68
+36,Master's,13.5,HR Specialist,Delhi,Large,Manufacturing,Remote,4896186.79
+41,Master's,15.0,HR Specialist,Pune,Large,IT,On-site,5739283.56
+24,PhD,0.0,Manager,Chennai,Large,Manufacturing,Hybrid,1422901.56
+53,PhD,28.5,Software Engineer,Bangalore,Medium,Manufacturing,Hybrid,13316919.15
+28,PhD,3.5,Software Engineer,Delhi,Large,Manufacturing,On-site,2801522.41
+30,PhD,9.5,Analyst,Delhi,Medium,Healthcare,Hybrid,3669200.22
+38,PhD,13.0,HR Specialist,Pune,Small,Education,On-site,3072408.27
+37,Master's,9.0,Data Scientist,Delhi,Medium,Healthcare,Remote,4569460.3
+34,PhD,13.5,Manager,Hyderabad,Large,Healthcare,Hybrid,10992153.96
+39,PhD,16.5,Analyst,Chennai,Small,Finance,Remote,5517090.53
+45,PhD,17.0,Analyst,Chennai,Large,Healthcare,On-site,6871491.13
+38,Master's,12.5,Analyst,Delhi,Large,Manufacturing,Remote,4688552.84
+47,Bachelor's,22.5,HR Specialist,Bangalore,Small,IT,Hybrid,5222911.77
+29,Master's,3.0,Manager,Hyderabad,Medium,IT,On-site,2539500.07
+49,Master's,22.0,Analyst,Delhi,Large,IT,Hybrid,9744904.12
+40,Master's,16.0,Manager,Chennai,Small,Healthcare,Hybrid,6088731.01
+38,Bachelor's,14.5,HR Specialist,Chennai,Small,Healthcare,Hybrid,2552220.34
+50,Master's,26.5,Software Engineer,Mumbai,Large,IT,Hybrid,16000880.05
+45,Master's,24.0,Data Scientist,Bangalore,Large,Manufacturing,Hybrid,12144068.07
+24,Bachelor's,0.0,Analyst,Mumbai,Small,Education,On-site,240000.0
+48,Bachelor's,26.5,Data Scientist,Bangalore,Small,Healthcare,Remote,7820827.73
+48,PhD,25.5,Manager,Chennai,Small,Finance,Remote,13867020.19
+30,PhD,7.5,Manager,Delhi,Large,Education,Remote,6091340.15
+27,Master's,1.5,Manager,Mumbai,Medium,Education,Hybrid,1667463.84
+37,PhD,12.5,HR Specialist,Bangalore,Large,Finance,Hybrid,7670835.06
+41,Bachelor's,15.0,Software Engineer,Mumbai,Small,Finance,Remote,4580231.84
+31,Master's,5.5,Manager,Bangalore,Medium,Manufacturing,On-site,3232851.5
+53,Master's,26.0,Analyst,Pune,Medium,Finance,On-site,7061600.04
+26,Master's,3.0,Analyst,Chennai,Small,Finance,Remote,1084779.17
+29,PhD,5.0,Data Scientist,Hyderabad,Small,Finance,Remote,3468365.17
+37,Master's,11.5,Analyst,Chennai,Medium,IT,On-site,3268354.22
+34,Master's,7.5,Analyst,Hyderabad,Large,IT,Remote,4214709.59
+53,Master's,28.5,HR Specialist,Pune,Medium,Manufacturing,On-site,6020262.17
+34,Bachelor's,7.0,Manager,Delhi,Large,Finance,Remote,4776386.77
+30,Master's,7.0,Analyst,Chennai,Small,Manufacturing,On-site,1429352.48
+52,PhD,28.5,Analyst,Delhi,Small,Healthcare,Remote,9319935.01
+30,Bachelor's,3.5,Manager,Bangalore,Medium,Manufacturing,Remote,2350450.97
+22,PhD,0.0,Software Engineer,Bangalore,Medium,Education,Remote,866101.9
+32,Master's,8.0,Software Engineer,Hyderabad,Small,Healthcare,Hybrid,2810371.28
+34,Bachelor's,8.5,Manager,Chennai,Medium,Healthcare,On-site,3021130.61
+52,PhD,28.0,Manager,Bangalore,Small,Education,Hybrid,12966652.94
+39,PhD,11.5,HR Specialist,Pune,Small,IT,Hybrid,4208604.67
+35,Master's,8.5,Data Scientist,Mumbai,Large,Manufacturing,Hybrid,5361614.22
+28,PhD,6.0,Software Engineer,Delhi,Large,Healthcare,On-site,4201057.52
+48,Master's,26.0,HR Specialist,Hyderabad,Small,IT,On-site,6416038.68
+53,PhD,27.5,Data Scientist,Hyderabad,Large,Education,On-site,14178251.02
+39,PhD,16.0,Analyst,Pune,Medium,IT,Remote,6838819.56
+45,Master's,17.0,HR Specialist,Chennai,Large,Education,Hybrid,4444265.84
+38,PhD,10.5,Analyst,Pune,Medium,Education,On-site,2982888.07
+34,PhD,11.0,HR Specialist,Delhi,Medium,IT,Remote,5052657.15
+55,PhD,28.0,Manager,Pune,Medium,Healthcare,On-site,15157483.49
+52,PhD,24.5,Manager,Bangalore,Small,Manufacturing,Remote,13575437.05
+40,Master's,15.0,HR Specialist,Pune,Small,Education,Remote,2649666.91
+50,Bachelor's,28.5,Manager,Bangalore,Small,Manufacturing,On-site,8252168.09
+28,PhD,6.5,HR Specialist,Delhi,Small,Healthcare,Hybrid,2154079.16
+36,PhD,11.5,Software Engineer,Hyderabad,Small,Manufacturing,Remote,4844406.9
+55,PhD,29.5,Data Scientist,Bangalore,Medium,Manufacturing,On-site,14623947.09
+49,Bachelor's,26.5,Software Engineer,Mumbai,Large,IT,Hybrid,12580904.04
+31,PhD,7.5,Data Scientist,Mumbai,Small,Manufacturing,Remote,3881315.37
+36,PhD,15.5,Data Scientist,Mumbai,Medium,IT,Hybrid,11256365.1
+57,Bachelor's,29.5,Software Engineer,Hyderabad,Large,IT,Remote,12830167.72
+36,Master's,9.5,Data Scientist,Pune,Small,Education,Hybrid,2938428.7
+44,Bachelor's,22.0,Software Engineer,Delhi,Large,IT,Hybrid,9460294.05
+52,Bachelor's,30.0,Analyst,Pune,Small,Finance,Remote,5812889.33
+52,Master's,25.5,Analyst,Pune,Large,Manufacturing,Hybrid,7867600.15
+36,PhD,15.0,Data Scientist,Hyderabad,Large,IT,Remote,12796142.41
+21,Bachelor's,0.5,Data Scientist,Hyderabad,Medium,Healthcare,Hybrid,571810.59
+37,Bachelor's,9.5,Manager,Chennai,Large,Education,On-site,3439096.68
+49,Bachelor's,23.0,Analyst,Bangalore,Large,Healthcare,On-site,6819717.71
+44,Master's,17.5,Manager,Bangalore,Small,Healthcare,Hybrid,7925611.09
+41,PhD,13.5,Data Scientist,Bangalore,Large,Manufacturing,Remote,10535363.04
+38,Master's,17.5,Data Scientist,Chennai,Small,IT,On-site,6111562.37
+34,PhD,8.0,Data Scientist,Delhi,Medium,Finance,On-site,5352805.24
+54,PhD,26.5,Manager,Delhi,Medium,Healthcare,On-site,15797077.4
+29,Bachelor's,4.0,HR Specialist,Chennai,Large,Healthcare,On-site,1225991.68
+45,PhD,18.5,Software Engineer,Delhi,Large,Finance,Remote,14570803.43
+38,PhD,16.0,Analyst,Pune,Small,Healthcare,On-site,4690257.41
+51,PhD,23.5,Analyst,Chennai,Large,Education,Hybrid,8013627.98
+48,Bachelor's,23.5,Software Engineer,Hyderabad,Large,Finance,Hybrid,9274364.68
+33,PhD,7.0,Data Scientist,Hyderabad,Large,Healthcare,Hybrid,5482469.74
+48,Bachelor's,23.0,Data Scientist,Pune,Medium,Education,Remote,5674270.8
+36,Master's,14.0,HR Specialist,Pune,Small,Healthcare,Hybrid,2786914.25
+21,Bachelor's,0.5,Software Engineer,Chennai,Small,Education,Remote,556038.54
+46,Master's,18.0,Data Scientist,Bangalore,Large,IT,Hybrid,12870211.29
+49,Bachelor's,27.0,Data Scientist,Chennai,Medium,IT,On-site,8142324.43
+30,Bachelor's,7.5,HR Specialist,Bangalore,Small,Finance,Remote,2086142.36
+21,PhD,0.5,Analyst,Chennai,Medium,Finance,On-site,851157.12
+38,PhD,16.0,Software Engineer,Bangalore,Small,Education,Remote,6327884.79
+31,PhD,8.5,Manager,Bangalore,Medium,IT,On-site,7587906.86
+27,Bachelor's,6.0,Manager,Pune,Medium,IT,On-site,2667163.18
+35,Master's,8.5,Manager,Chennai,Medium,Finance,Hybrid,4830910.12
+28,Master's,2.5,Software Engineer,Hyderabad,Medium,IT,Hybrid,1533715.89
+46,Bachelor's,21.0,Data Scientist,Chennai,Small,Healthcare,On-site,4489353.75
+51,PhD,25.0,Software Engineer,Chennai,Small,IT,On-site,9960663.81
+26,Master's,3.0,Software Engineer,Hyderabad,Large,Manufacturing,Hybrid,1933677.85
+27,Master's,0.0,Data Scientist,Mumbai,Small,IT,On-site,1181292.86
+50,Master's,22.5,Manager,Delhi,Small,Education,Hybrid,7574080.12
+39,PhD,18.0,Software Engineer,Delhi,Small,Manufacturing,On-site,6570841.28
+56,Master's,30.0,Analyst,Bangalore,Medium,Healthcare,Remote,9444185.73
+29,Master's,7.0,HR Specialist,Hyderabad,Medium,Healthcare,Hybrid,1963211.31
+26,Bachelor's,4.5,Software Engineer,Pune,Medium,IT,Remote,1905651.45
+25,Master's,2.5,HR Specialist,Bangalore,Large,Finance,Remote,1679223.37
+30,PhD,3.0,Data Scientist,Bangalore,Large,Education,Remote,3168951.79
+49,PhD,28.5,HR Specialist,Mumbai,Large,Healthcare,On-site,13358443.58
+36,Bachelor's,14.0,Software Engineer,Bangalore,Large,Healthcare,Hybrid,5999861.79
+24,Bachelor's,3.0,HR Specialist,Chennai,Medium,Finance,On-site,933121.21
+34,Master's,12.5,Analyst,Pune,Medium,Education,Remote,2956348.2
+45,PhD,23.0,Analyst,Bangalore,Large,Healthcare,Remote,12506720.11
+45,Master's,22.5,Data Scientist,Mumbai,Large,Education,Hybrid,10456561.68
+35,Master's,11.0,Data Scientist,Bangalore,Large,Finance,Remote,8456763.14
+46,PhD,18.0,HR Specialist,Chennai,Small,Manufacturing,Hybrid,4320953.86
+39,Master's,18.0,Software Engineer,Hyderabad,Medium,IT,Remote,7938989.96
+33,Master's,8.0,Data Scientist,Delhi,Small,Manufacturing,Hybrid,2961752.73
+43,Master's,22.0,Data Scientist,Hyderabad,Small,Manufacturing,Hybrid,6729618.14
+29,Master's,8.0,Software Engineer,Pune,Large,Education,Hybrid,3578229.04
+46,Bachelor's,23.0,HR Specialist,Delhi,Large,Education,Remote,5238443.31
+50,Master's,27.0,Analyst,Mumbai,Small,Finance,Hybrid,8040451.39
+40,PhD,15.5,Data Scientist,Bangalore,Medium,Healthcare,Remote,9675872.75
+42,Bachelor's,21.5,Manager,Delhi,Small,Finance,On-site,7024913.82
+45,Bachelor's,17.5,Software Engineer,Bangalore,Small,Finance,Hybrid,5602256.31
+35,Master's,7.5,HR Specialist,Hyderabad,Medium,Education,On-site,1838139.12
+38,PhD,12.5,Software Engineer,Mumbai,Small,Manufacturing,On-site,5392798.27
+25,Bachelor's,1.0,Data Scientist,Delhi,Medium,Education,Hybrid,1062499.97
+40,Master's,16.5,HR Specialist,Hyderabad,Medium,Finance,Remote,5340147.03
+38,Bachelor's,11.0,Software Engineer,Chennai,Medium,Education,On-site,2312811.54
+41,Master's,19.5,Manager,Mumbai,Small,Manufacturing,Hybrid,7971686.11
+32,PhD,8.5,HR Specialist,Delhi,Large,Healthcare,Hybrid,4479797.79
+46,PhD,18.0,Manager,Pune,Large,Healthcare,Hybrid,13922326.55
+29,Bachelor's,2.0,HR Specialist,Bangalore,Large,Healthcare,Remote,1248723.73
+28,Bachelor's,3.5,Manager,Chennai,Medium,Manufacturing,On-site,1151693.8
+53,PhD,27.0,Data Scientist,Hyderabad,Medium,Education,On-site,10484226.11
+38,Bachelor's,15.0,Analyst,Hyderabad,Medium,Manufacturing,Hybrid,2985692.34
+45,Master's,20.5,Software Engineer,Hyderabad,Medium,Manufacturing,On-site,6277934.38
+42,Bachelor's,16.5,Manager,Delhi,Large,IT,On-site,9344327.47
+26,Master's,5.5,Data Scientist,Delhi,Small,Education,Hybrid,1790771.74
+42,Master's,17.5,Analyst,Pune,Medium,Finance,Remote,5686965.14
+35,Master's,10.5,Analyst,Bangalore,Small,Finance,Hybrid,3478919.8
+34,Master's,10.5,Data Scientist,Chennai,Small,Healthcare,Hybrid,3503865.95
+46,PhD,18.5,Data Scientist,Pune,Medium,Manufacturing,Remote,8892143.38
+51,Bachelor's,29.0,Analyst,Hyderabad,Medium,Healthcare,Hybrid,5651154.49
+43,Master's,22.5,Data Scientist,Mumbai,Small,Healthcare,On-site,7989350.8
+32,Master's,10.0,Software Engineer,Pune,Medium,Education,On-site,2728797.08
+47,Bachelor's,25.0,Data Scientist,Chennai,Medium,Manufacturing,Hybrid,5998926.54
+46,PhD,25.5,Data Scientist,Mumbai,Medium,Education,Remote,12336100.29
+48,Bachelor's,23.0,Analyst,Mumbai,Large,Finance,Remote,8369684.64
+55,Bachelor's,29.0,Analyst,Mumbai,Small,IT,Hybrid,6756298.21
+56,Bachelor's,28.0,Data Scientist,Chennai,Medium,Manufacturing,On-site,6715705.86
+51,Master's,29.0,Analyst,Mumbai,Large,Education,Hybrid,9095422.46
+31,Master's,6.0,Analyst,Mumbai,Large,Manufacturing,On-site,2592440.68
+34,Master's,7.5,Analyst,Bangalore,Large,Manufacturing,Remote,3520162.02
+25,Master's,2.0,Analyst,Pune,Small,Manufacturing,Hybrid,578722.25
+31,PhD,3.0,Analyst,Pune,Medium,IT,On-site,1812786.71
+43,Bachelor's,21.5,HR Specialist,Pune,Small,Manufacturing,Remote,3435795.84
+33,PhD,6.0,HR Specialist,Hyderabad,Large,Manufacturing,Hybrid,2998811.52
+36,Master's,12.0,HR Specialist,Bangalore,Small,Education,Remote,2691952.4
+50,Bachelor's,27.5,Data Scientist,Chennai,Medium,Manufacturing,On-site,6473965.78
+45,Master's,20.5,Manager,Mumbai,Medium,Education,Remote,9393972.01
+28,PhD,3.5,Data Scientist,Delhi,Small,Manufacturing,Remote,2080474.41
+35,PhD,9.0,Data Scientist,Hyderabad,Medium,Education,On-site,4275198.36
+39,Master's,12.0,Analyst,Pune,Large,IT,Remote,5652732.74
+48,PhD,26.0,Manager,Chennai,Large,IT,On-site,20641548.17
+35,PhD,14.0,HR Specialist,Mumbai,Large,Education,Hybrid,5587488.48
+31,Bachelor's,7.5,Data Scientist,Mumbai,Small,Finance,Remote,2966223.36
+43,Master's,17.0,Data Scientist,Bangalore,Medium,Education,Remote,6666794.29
+50,PhD,29.0,Data Scientist,Bangalore,Large,Healthcare,On-site,20451377.17
+51,Bachelor's,29.5,HR Specialist,Delhi,Medium,Education,Hybrid,4806268.85
+40,Master's,17.5,Software Engineer,Chennai,Medium,IT,Hybrid,6666253.5
+52,PhD,27.0,Analyst,Mumbai,Large,Manufacturing,On-site,11999369.07
+35,Bachelor's,11.0,HR Specialist,Bangalore,Medium,Manufacturing,Remote,2737711.53
+32,PhD,6.5,HR Specialist,Hyderabad,Large,IT,Remote,4599666.4
+24,Master's,1.5,Data Scientist,Pune,Large,Finance,Hybrid,1701881.04
+50,Master's,28.5,Manager,Hyderabad,Large,Manufacturing,Remote,15771361.94
+34,PhD,13.5,HR Specialist,Chennai,Small,IT,Remote,4487737.91
+45,PhD,19.5,Manager,Hyderabad,Medium,IT,Remote,14766819.01
+34,Bachelor's,6.5,HR Specialist,Delhi,Small,Education,Hybrid,1170010.09
+49,PhD,28.0,Data Scientist,Delhi,Small,Education,On-site,9322778.08
+35,Master's,7.5,Analyst,Hyderabad,Medium,IT,Remote,3105239.21
+23,Bachelor's,2.5,Manager,Bangalore,Small,Manufacturing,On-site,985717.88
+45,PhD,20.5,Software Engineer,Delhi,Small,Manufacturing,Hybrid,7938719.49
+25,Bachelor's,2.5,HR Specialist,Bangalore,Large,IT,Remote,1453551.22
+52,PhD,30.0,Manager,Chennai,Large,Finance,Hybrid,23741364.81
+40,Bachelor's,17.5,HR Specialist,Mumbai,Small,Healthcare,On-site,3167321.48
+35,Bachelor's,8.0,Analyst,Chennai,Small,Manufacturing,Hybrid,1757555.94
+28,PhD,4.0,HR Specialist,Mumbai,Medium,IT,On-site,2403169.36
+27,Bachelor's,5.5,Manager,Delhi,Large,IT,Remote,3925223.81
+31,Bachelor's,7.0,Manager,Chennai,Large,Healthcare,Remote,3368255.71
+29,Bachelor's,5.5,HR Specialist,Bangalore,Small,IT,Hybrid,1595484.06
+36,Master's,8.5,Manager,Hyderabad,Medium,Healthcare,On-site,4694293.97
+49,Master's,24.0,Analyst,Chennai,Large,Finance,On-site,8176084.82
+56,Bachelor's,29.0,Manager,Bangalore,Medium,Healthcare,On-site,10925073.62
+33,Master's,8.5,Analyst,Chennai,Large,Education,Remote,2565571.44
+47,Bachelor's,23.5,Analyst,Bangalore,Small,IT,On-site,5203830.24
+27,Bachelor's,5.5,Analyst,Mumbai,Medium,Education,On-site,1028251.83
+38,Master's,14.5,Software Engineer,Hyderabad,Large,IT,On-site,7516086.86
+49,PhD,25.0,Data Scientist,Chennai,Medium,Manufacturing,Hybrid,10359582.34
+33,Master's,7.0,Data Scientist,Pune,Medium,Healthcare,On-site,2791617.03
+36,Master's,10.5,Manager,Delhi,Small,Education,Remote,4229886.64
+49,Master's,27.5,Software Engineer,Hyderabad,Medium,Healthcare,Remote,9700982.46
+37,Bachelor's,15.5,Manager,Pune,Large,Manufacturing,Hybrid,6221317.13
+47,Master's,19.5,Manager,Hyderabad,Small,Manufacturing,Hybrid,7206155.81
+31,PhD,6.5,Software Engineer,Hyderabad,Small,Healthcare,Remote,2988188.62
+44,Master's,21.0,Manager,Delhi,Large,Education,Hybrid,10520295.49
+33,Bachelor's,5.5,Analyst,Pune,Small,IT,Remote,1699732.17
+25,Bachelor's,4.5,HR Specialist,Delhi,Large,Manufacturing,Hybrid,1771290.92
+31,PhD,5.0,HR Specialist,Mumbai,Medium,Education,Hybrid,1993251.11
+49,Bachelor's,22.0,Data Scientist,Chennai,Small,Education,Remote,4414312.19
+38,Bachelor's,16.5,Analyst,Bangalore,Small,Healthcare,Hybrid,3289899.01
+28,Master's,2.5,Analyst,Bangalore,Large,Education,Remote,1518303.13
+42,Bachelor's,14.0,Software Engineer,Hyderabad,Small,Finance,On-site,3869496.65
+51,Bachelor's,26.5,Manager,Mumbai,Large,Finance,On-site,14797868.35
+47,Master's,23.5,Software Engineer,Chennai,Medium,Healthcare,Hybrid,7491334.16
+48,PhD,20.0,HR Specialist,Hyderabad,Small,Manufacturing,Remote,5738744.16
+39,Master's,13.0,HR Specialist,Delhi,Medium,Finance,On-site,3977152.33
+35,Master's,11.0,HR Specialist,Mumbai,Large,Healthcare,Remote,4564271.43
+40,Bachelor's,14.0,Data Scientist,Delhi,Large,Education,Hybrid,4812246.73
+48,Bachelor's,25.5,Data Scientist,Delhi,Large,IT,Remote,12743998.58
+46,Master's,19.0,Data Scientist,Delhi,Large,Finance,On-site,11192541.97
+39,PhD,15.0,Software Engineer,Bangalore,Large,Education,On-site,8230104.21
+47,Master's,25.0,Analyst,Pune,Medium,Manufacturing,Remote,5886682.4
+57,Master's,30.0,Data Scientist,Hyderabad,Medium,Manufacturing,Remote,10670099.62
+49,Bachelor's,23.0,Manager,Mumbai,Small,Finance,Remote,9615771.91
+43,Bachelor's,21.5,Manager,Bangalore,Small,Healthcare,On-site,7102482.73
+40,PhD,15.0,Manager,Pune,Medium,Healthcare,Hybrid,9449390.49
+44,Bachelor's,18.5,Manager,Bangalore,Small,Manufacturing,On-site,5581034.7
+53,Bachelor's,26.5,Analyst,Mumbai,Medium,Finance,Remote,7866290.8
+36,Master's,14.5,HR Specialist,Chennai,Small,Manufacturing,Hybrid,2816223.52
+30,Bachelor's,3.0,HR Specialist,Chennai,Medium,Manufacturing,Remote,571579.55
+41,Bachelor's,13.0,Data Scientist,Pune,Large,IT,On-site,6044572.18
+37,PhD,13.5,HR Specialist,Pune,Medium,Finance,Remote,5608006.32
+27,Master's,0.0,Data Scientist,Hyderabad,Small,Manufacturing,On-site,682999.25
+27,Master's,2.5,HR Specialist,Mumbai,Medium,Finance,Hybrid,1512820.42
+47,Bachelor's,23.5,Software Engineer,Bangalore,Large,IT,Remote,11754231.13
+50,Master's,25.5,Software Engineer,Delhi,Medium,Healthcare,Hybrid,9230836.75
+27,PhD,6.0,Data Scientist,Delhi,Large,IT,On-site,5665249.76
+53,PhD,26.5,Software Engineer,Mumbai,Large,IT,On-site,20410455.33
+25,Bachelor's,2.0,Data Scientist,Delhi,Medium,Finance,On-site,1252508.89
+42,Master's,20.0,Manager,Delhi,Large,IT,Hybrid,15003043.06
+39,Master's,15.5,HR Specialist,Hyderabad,Small,IT,On-site,3779871.14
+49,Master's,23.5,Analyst,Bangalore,Large,IT,Hybrid,11062324.36
+51,PhD,25.0,HR Specialist,Hyderabad,Small,Manufacturing,Remote,6783091.91
+30,Bachelor's,8.5,Data Scientist,Chennai,Medium,Manufacturing,On-site,2198633.27
+56,PhD,29.5,Software Engineer,Chennai,Small,Manufacturing,Hybrid,9183234.27
+53,Master's,25.5,Manager,Bangalore,Large,Finance,On-site,18717594.53
+54,Master's,29.0,Analyst,Hyderabad,Small,Education,On-site,4939695.17
+23,Master's,2.0,Data Scientist,Mumbai,Large,IT,Remote,2588353.27
+40,Master's,16.0,Software Engineer,Chennai,Small,Manufacturing,Remote,4364879.74
+50,Bachelor's,24.5,Data Scientist,Pune,Large,Manufacturing,Hybrid,8156422.0
+47,PhD,19.0,Manager,Delhi,Medium,Finance,Hybrid,14104055.65
+44,Master's,22.0,Data Scientist,Hyderabad,Medium,IT,Remote,10633243.69
+27,Bachelor's,6.5,Analyst,Mumbai,Small,Manufacturing,On-site,1182396.8
+43,Master's,22.0,Software Engineer,Chennai,Large,Finance,Remote,10811784.03
+35,Master's,14.5,Data Scientist,Chennai,Large,Education,Remote,6047085.42
+50,PhD,25.0,Analyst,Delhi,Large,IT,Hybrid,14279704.89
+28,Master's,0.5,HR Specialist,Chennai,Small,Finance,Hybrid,456975.89
+43,PhD,21.5,Software Engineer,Mumbai,Small,Healthcare,Remote,9994548.61
+36,Master's,11.5,Manager,Hyderabad,Medium,IT,Hybrid,6786481.79
+26,Master's,5.5,Manager,Mumbai,Medium,Finance,Remote,4131659.68
+47,Bachelor's,21.5,Manager,Chennai,Medium,Healthcare,On-site,6651032.63
+54,Master's,30.0,Data Scientist,Bangalore,Large,IT,On-site,19476647.41
+26,PhD,3.5,Manager,Mumbai,Large,Healthcare,Hybrid,4361100.11
+45,PhD,20.5,Analyst,Bangalore,Small,Healthcare,Remote,7304744.57
+38,Master's,11.0,Analyst,Pune,Medium,Education,Remote,2802038.24
+23,Master's,2.0,HR Specialist,Chennai,Large,Manufacturing,Remote,910941.94
+30,Bachelor's,8.5,Data Scientist,Pune,Large,IT,Hybrid,4239685.53
+44,Bachelor's,23.5,Data Scientist,Bangalore,Medium,Finance,Hybrid,9188888.5
+35,Master's,8.0,HR Specialist,Mumbai,Medium,Finance,On-site,3229409.91
+28,Master's,5.5,Manager,Mumbai,Small,Manufacturing,Remote,3103267.38
+50,PhD,29.0,Analyst,Mumbai,Small,Manufacturing,Hybrid,8683059.48
+47,Master's,25.0,Manager,Chennai,Large,Finance,On-site,14356749.94
+47,PhD,24.0,Data Scientist,Bangalore,Small,Healthcare,On-site,11351321.89
+54,Bachelor's,28.0,Software Engineer,Delhi,Large,Manufacturing,Hybrid,9225647.18
+43,PhD,18.0,Analyst,Delhi,Large,Finance,Hybrid,10013877.3
+37,Master's,14.0,Analyst,Mumbai,Small,Healthcare,Hybrid,3875376.94
+47,PhD,25.0,Data Scientist,Chennai,Large,Healthcare,Hybrid,14848217.98
+37,Master's,14.0,Software Engineer,Bangalore,Small,Healthcare,Hybrid,4828542.6
+36,Bachelor's,11.0,Software Engineer,Pune,Large,Finance,On-site,4183091.96
+29,Bachelor's,2.5,Software Engineer,Delhi,Medium,Education,On-site,1033245.88
+53,Master's,27.5,HR Specialist,Bangalore,Small,Healthcare,Remote,7178146.72
+40,Bachelor's,17.0,Data Scientist,Bangalore,Large,Manufacturing,On-site,6775050.52
+44,Bachelor's,19.0,Data Scientist,Pune,Small,Manufacturing,Remote,4528429.33
+36,Bachelor's,9.5,Analyst,Mumbai,Small,Finance,Remote,2597343.92
+51,Bachelor's,28.0,Software Engineer,Delhi,Small,Manufacturing,On-site,5915192.88
+33,Bachelor's,5.5,Software Engineer,Delhi,Large,Education,Hybrid,2184830.29
+27,PhD,6.0,Manager,Hyderabad,Small,Education,On-site,2717096.67
+30,Master's,2.0,Software Engineer,Mumbai,Medium,Education,Remote,1473476.09
+32,Master's,4.0,Data Scientist,Pune,Large,Finance,On-site,3068375.81
+38,PhD,17.5,HR Specialist,Chennai,Small,Finance,Hybrid,5089249.72
+30,Master's,7.5,Data Scientist,Pune,Large,Manufacturing,Hybrid,3850655.28
+28,Bachelor's,7.0,Software Engineer,Pune,Small,IT,On-site,2012250.24
+35,PhD,9.5,HR Specialist,Pune,Medium,IT,On-site,3991845.08
+41,Bachelor's,19.5,Software Engineer,Pune,Medium,IT,On-site,5823448.53
+40,Bachelor's,18.0,Analyst,Mumbai,Medium,Manufacturing,On-site,3608291.65
+41,Master's,13.0,HR Specialist,Pune,Medium,IT,On-site,3999648.81
+45,PhD,19.5,Software Engineer,Pune,Medium,Healthcare,Remote,8879283.47
+36,Master's,15.5,Manager,Hyderabad,Small,Finance,Remote,7634358.65
+43,Bachelor's,16.0,HR Specialist,Chennai,Small,Finance,On-site,2726351.29
+32,Master's,7.0,Software Engineer,Chennai,Medium,Finance,On-site,3012939.94
+48,Bachelor's,20.5,Analyst,Mumbai,Small,Healthcare,Remote,4385989.51
+57,Master's,29.0,Data Scientist,Pune,Medium,IT,On-site,12141612.37
+50,PhD,26.0,Manager,Delhi,Large,IT,On-site,23802374.94
+43,PhD,17.5,Manager,Hyderabad,Large,Healthcare,Remote,14873502.16
+43,Master's,21.0,Analyst,Hyderabad,Medium,Finance,Hybrid,6452831.8
+34,Master's,11.0,Manager,Delhi,Medium,Healthcare,Remote,6058504.49
+50,Master's,24.5,Data Scientist,Delhi,Small,Healthcare,On-site,8033715.6
+45,PhD,21.5,HR Specialist,Chennai,Large,IT,Remote,10693084.75
+49,Master's,25.5,HR Specialist,Pune,Medium,IT,Remote,8050482.74
+48,Bachelor's,25.0,HR Specialist,Mumbai,Medium,IT,On-site,6157372.42
+37,Master's,15.0,Manager,Hyderabad,Small,Finance,Hybrid,6707168.7
+34,Bachelor's,7.0,Software Engineer,Chennai,Medium,Education,Hybrid,1794844.72
+53,Master's,25.0,Manager,Mumbai,Small,Finance,On-site,12218267.08
+30,Master's,7.0,Software Engineer,Mumbai,Small,Healthcare,On-site,2772274.13
+32,PhD,10.5,Analyst,Pune,Medium,Education,On-site,2914338.54
+34,Master's,8.5,Analyst,Mumbai,Medium,Manufacturing,Remote,2615783.6
+23,Bachelor's,2.0,Data Scientist,Chennai,Large,Finance,Remote,1328305.89
+40,PhD,18.0,Analyst,Chennai,Large,Education,On-site,5727909.3
+23,Master's,1.5,Analyst,Bangalore,Large,Education,Remote,1091916.05
+25,PhD,1.0,Data Scientist,Mumbai,Large,Education,On-site,1373824.6
+36,PhD,11.0,Data Scientist,Mumbai,Large,Finance,Remote,10774258.47
+46,Master's,23.5,Software Engineer,Pune,Medium,IT,Hybrid,9304876.56
+54,PhD,27.0,Data Scientist,Hyderabad,Large,Healthcare,On-site,16907051.66
+38,PhD,13.5,Software Engineer,Mumbai,Large,Healthcare,Remote,10273506.53
+44,Bachelor's,21.0,Manager,Chennai,Medium,IT,On-site,7661262.54
+25,Bachelor's,0.5,Data Scientist,Mumbai,Large,Manufacturing,Hybrid,1127286.76
+48,Bachelor's,21.5,Manager,Delhi,Small,Healthcare,Remote,7139556.29
+47,Bachelor's,19.5,Software Engineer,Chennai,Small,Finance,Hybrid,4952778.72
+51,PhD,24.5,HR Specialist,Chennai,Medium,IT,On-site,8357992.43
+55,PhD,29.5,Data Scientist,Chennai,Medium,Healthcare,On-site,13101326.49
+46,Master's,18.5,HR Specialist,Delhi,Medium,Education,On-site,3944482.07
+29,PhD,8.0,Analyst,Chennai,Small,IT,Remote,3094167.45
+32,Bachelor's,10.0,HR Specialist,Mumbai,Medium,Healthcare,Remote,2614759.34
+27,Bachelor's,6.0,Data Scientist,Bangalore,Small,IT,On-site,2477057.03
+45,Bachelor's,24.0,Manager,Chennai,Medium,Education,On-site,5905430.44
+48,Master's,26.0,Software Engineer,Chennai,Small,Education,On-site,5543326.85
+48,PhD,21.0,HR Specialist,Delhi,Small,Finance,Remote,7862026.25
+56,PhD,29.0,Manager,Mumbai,Medium,Finance,Remote,23655312.16
+54,Bachelor's,27.0,Analyst,Bangalore,Medium,Manufacturing,On-site,5456373.25
+36,PhD,14.0,Software Engineer,Hyderabad,Medium,Education,Remote,5771650.02
+49,PhD,23.5,Software Engineer,Pune,Large,Manufacturing,Remote,12745358.53
+40,Master's,15.0,Manager,Chennai,Small,Manufacturing,On-site,5134070.85
+27,Bachelor's,1.0,HR Specialist,Mumbai,Medium,IT,On-site,658477.07
+42,Bachelor's,16.0,Data Scientist,Hyderabad,Medium,Healthcare,On-site,4779604.6
+55,Bachelor's,29.0,Data Scientist,Hyderabad,Small,Healthcare,Hybrid,7466936.67
+43,Bachelor's,18.5,Software Engineer,Hyderabad,Medium,Education,On-site,3741281.7
+48,Bachelor's,20.5,Data Scientist,Chennai,Medium,Education,On-site,4360067.4
+48,Master's,25.5,Software Engineer,Chennai,Small,Finance,Remote,8290683.61
+37,PhD,10.5,Data Scientist,Bangalore,Small,Education,Hybrid,4475113.55
+53,Bachelor's,29.0,Software Engineer,Mumbai,Large,Manufacturing,Hybrid,10438713.0
+31,Bachelor's,5.0,Manager,Chennai,Medium,Finance,On-site,2674301.0
+49,Master's,28.5,Software Engineer,Pune,Large,Healthcare,Hybrid,12204549.65
+51,PhD,29.0,Analyst,Mumbai,Small,Education,On-site,7491302.78
+55,PhD,29.0,Software Engineer,Hyderabad,Large,Finance,On-site,18627397.49
+45,Bachelor's,23.0,Software Engineer,Chennai,Small,Healthcare,On-site,4541913.79
+33,PhD,8.5,Manager,Chennai,Medium,Education,On-site,4346604.22
+30,Master's,5.5,Software Engineer,Bangalore,Small,Manufacturing,On-site,1953477.11
+39,PhD,12.0,Data Scientist,Bangalore,Small,IT,On-site,7329964.64
+28,PhD,5.5,Analyst,Hyderabad,Small,Manufacturing,On-site,1762323.66
+31,Bachelor's,9.0,Software Engineer,Hyderabad,Medium,Healthcare,On-site,2622389.28
+37,PhD,15.0,Software Engineer,Delhi,Medium,Education,On-site,5874747.27
+36,Bachelor's,14.0,HR Specialist,Pune,Small,Manufacturing,On-site,1975509.04
+40,Bachelor's,18.0,Manager,Chennai,Small,Finance,On-site,5312284.29
+55,PhD,28.0,Manager,Pune,Large,Finance,On-site,22578681.06
+53,Bachelor's,28.0,Analyst,Chennai,Large,IT,Remote,8509730.88
+43,Bachelor's,16.0,Manager,Chennai,Medium,Finance,On-site,5913091.61
+30,PhD,9.5,Data Scientist,Bangalore,Medium,Healthcare,Remote,6007369.31
+53,Bachelor's,27.0,Analyst,Pune,Medium,Manufacturing,Remote,4910014.72
+53,Bachelor's,27.0,Analyst,Hyderabad,Medium,Education,Remote,4658798.23
